@@ -57,7 +57,7 @@ The dataset includes:
 
 ## 📊 Dashboard Preview
 
-[![Dashboard Preview](Dashboard(2).png)](Dashboard%20coffee%20orders.pbix)
+[![Dashboard Preview](dashboard.png)](Dashboard%20coffee%20orders.pbix)
 
 > Click the image to download/view the dashboard file.
 
